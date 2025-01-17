@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m a passionate **AI and ML enthusiast** with a
 My core expertise lies in Computer Vision and Large Language Models (LLMs). Here are some highlights from my recent projects:
 
 - **Real-Time Small-Object Detection**:
-  Designed and implemented a cutting-edge small object detection system using **RT-DETR** on the VisDrone dataset, achieving **mAP@50 score of 0.48**, with outstanding real-world performance.
+Designed and implemented a cutting-edge small object detection system using **RT-DETR** on the VisDrone dataset, achieving **mAP@50 score of 0.48**, with outstanding real-world performance.
 - **Fine-Tuning Llama for Amazon Product Descriptions**:
   Enhanced the **Llama-3.2-11B-Vision** model to generate generate compelling and SEO-optimized Amazon product descriptions.
 - **Fine-Tuning LLaMA for Python Code Generation**:
