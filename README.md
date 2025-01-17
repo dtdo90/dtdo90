@@ -20,7 +20,7 @@ Designed and implemented a cutting-edge small object detection system using **RT
   Built and deployed a scalable real-time emotion recognition system, leveraging VGG16 for feature extraction and AWS for efficient deployment.
 
 
-## Youtube channel
+## 🎥 Youtube Channel
 I like to share my learning and finding with like-minded people. On my [YouTube channel](https://www.youtube.com/@taido4883), I have
 - Shared tutorials on AI research and deep learning models.
 - Built computer vision applications and engaged an AI-focused audience.
