@@ -2,16 +2,25 @@
 
 Welcome to my GitHub profile! I’m a passionate **AI and ML enthusiast** with a **PhD in Mathematics** and background in:
 
-- **Machine Learning** 🧠
-- **Deep Learning** 🤖
-- **Python** 🐍
-- **Computer Vision** 🖼️
-- **Transformer Models** 🔄
+- **Computer Vision** 🖼
+- **Transformer Models** 
+- **Machine Learning** 
+- **Deep Learning** 
 
 ## 🌟 Featured Projects
-I am committed to staying at the forefront of AI and ML innovations. My work spans across diverse areas such as graph machine learning, transformer architectures, and object classification/tracking/detection. 
+My core expertise lies in Computer Vision and Large Language Models (LLMs). Here are some highlights from my recent projects:
 
-Explore my projects and dive into these topics through my videos on [YouTube](https://www.youtube.com/@taido4883).
+- **Real-Time Small-Object Detection**: Designed and implemented a cutting-edge small object detection system using **RT-DETR** on the VisDrone dataset, achieving mAP@50 score of 0.48, with outstanding real-world performance.
+- **Fine-Tuning Llama for Amazon Product Descriptions**: Enhanced the **Llama-3.2-11B-Vision** model to generate generate compelling and SEO-optimized Amazon product descriptions.
+- **Fine-Tuning LLaMA for Python Code Generation**: Improve **LLAMA-3.2-1B-Instruct** model to generate and comprehend Python code effectively.
+- **End-to-End Emotion Recognition System**: Built and deployed a scalable real-time emotion recognition system, leveraging VGG16 for feature extraction and AWS for efficient deployment.
+
+
+## Youtube channel
+I like to share my learning and finding with like-minded people. On my [YouTube](https://www.youtube.com/@taido4883), I
+- Shared tutorials on AI research and deep learning models.
+- Built computer vision applications and engaged an AI-focused audience.
+
 
 ## 🔗 Connect with Me
 
