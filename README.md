@@ -21,7 +21,7 @@ Designed and implemented a cutting-edge small object detection system using **RT
 
 
 ## Youtube channel
-I like to share my learning and finding with like-minded people. On my [YouTube](https://www.youtube.com/@taido4883), I
+I like to share my learning and finding with like-minded people. On my [YouTube channel](https://www.youtube.com/@taido4883), I have
 - Shared tutorials on AI research and deep learning models.
 - Built computer vision applications and engaged an AI-focused audience.
 
