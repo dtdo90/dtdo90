@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a passionate **AI and ML enthusiast** with a **PhD in Mathematics** and background in:
 
-- **Computer Vision** 🖼
+- **Computer Vision** 
 - **Transformer Models** 
 - **Machine Learning** 
 - **Deep Learning** 
