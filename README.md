@@ -1,46 +1,41 @@
-# Hi 👋, I'm Tai
+# Tai Do
 
-Welcome to my GitHub profile! I’m a passionate **AI and ML enthusiast** with a **PhD in Mathematics** and background in:
+Applied AI / Data Scientist with a PhD in Mathematics and an MSc in Computer Vision.
 
-- **Computer Vision** 
-- **Transformer Models** 
-- **Machine Learning** 
-- **Deep Learning** 
+I work on machine learning, NLP, LLMs, semantic retrieval, computer vision, and model evaluation. My background combines mathematical research, academic experience, and hands-on industry work on practical AI systems.
 
-## 🌟 Featured Projects
-My core expertise lies in Computer Vision and Large Language Models (LLMs). Here are some highlights from my recent projects:
+I am also a published researcher and a Kaggle Gold Medalist.
 
-- **Real-Time Small-Object Detection**:
-Designed and implemented a cutting-edge small object detection system using **RT-DETR** on the VisDrone dataset, achieving **mAP@50 score of 0.48**, with outstanding real-world performance.
-- **Fine-Tuning Llama for Amazon Product Descriptions**:
-  Enhanced the **Llama-3.2-11B-Vision** model to generate generate compelling and SEO-optimized Amazon product descriptions.
-- **Fine-Tuning LLaMA for Python Code Generation**:
-  Improve **LLAMA-3.2-1B-Instruct** model to generate and comprehend Python code effectively.
-- **End-to-End Emotion Recognition System**:
-  Built and deployed a scalable real-time emotion recognition system, leveraging VGG16 for feature extraction and AWS for efficient deployment.
+## Areas of Interest
 
+- Machine Learning and Deep Learning
+- NLP and Semantic Retrieval
+- Large Language Models
+- RAG and Agentic AI Workflows
+- Computer Vision and Multimodal AI
+- Model Evaluation
+- Mathematical Modelling and Optimization
 
-## 🎥 Youtube Channel
-I like to share my learning and finding with like-minded people. On my [YouTube channel](https://www.youtube.com/@taido4883), I have
-- Shared tutorials on AI research and deep learning models.
-- Built computer vision applications and engaged an AI-focused audience.
+## Technical Skills
 
+**Machine Learning / Deep Learning:** PyTorch, TensorFlow, Scikit-learn, Transformers, CNNs, Vision Transformers
 
-## 🔗 Connect with Me
+**NLP / GenAI:** Sentence Transformers, Cross Encoders, semantic search, text classification, RAG, LLMs, LangChain, LangGraph, LLM evaluation
 
-I love connecting with like-minded professionals and enthusiasts. 
+**Data / Engineering:** Python, NumPy, Pandas, SQL, Matplotlib, Docker, Git, ONNX, TensorRT
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tai-do-9463002b7)
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@taido4883)
+**Mathematics:** Optimization, probability, combinatorics, coding theory, algorithm design, mathematical modelling
 
-## 📫 Get in Touch
-I’m always open to new opportunities, collaborations, or just a good conversation about the future of AI. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tai-do-9463002b7) or check out my latest insights on [YouTube](https://www.youtube.com/@taido4883).
+## Selected Work
 
----
+- Built NLP pipelines for semantic retrieval, evidence matching, text classification, and transcript analysis.
+- Worked on LLM reasoning, evaluation, retrieval-based grounding, and structured inference.
+- Developed computer vision and multimodal AI projects involving object detection, visual understanding, and vision-language models.
+- Explored RAG and agentic AI workflows using LangChain, LangGraph, and related tools.
 
-_“The best way to predict the future is to create it.”_
+## Links
 
-![Profile Views](https://komarev.com/ghpvc/?username=dtdo90&style=flat-square&color=blue)
-
-
+- [LinkedIn](https://www.linkedin.com/in/tai-do-9463002b7)
+- [YouTube](https://www.youtube.com/@taido4883)
+- [GitHub](https://github.com/dtdo)
 
